@@ -4,8 +4,8 @@ layout: post
 title: My writeups on Hackthebox machines
 subtitle: My Contributions to Hackthebox.
 description: Here are my some of the Hackthebox writeups which are also approved by Hackthebox itself
-image: assets/img/htb.PNG
-optimized_image: assets/img/htb.PNG
+image: /assets/img/htb.PNG
+optimized_image: /assets/img/htb.PNG
 category: Hackthebox
 tags:
   - hackthebox
